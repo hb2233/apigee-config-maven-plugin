@@ -7,6 +7,12 @@
     <version>1.0</version>
     <!-- Since Maven 3.0.3, for two plugins bound to the same phase, the order 
          of execution is the same as the order in which you define them. -->
+     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+        <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+        <java.version>1.8</java.version>
+     </properties>
+    
     <build>
         <plugins>
 
