@@ -5,5 +5,5 @@
 	<artifactId>HelloWorld</artifactId>
 	<version>1.0</version>
 	<name>HelloWorld</name>
-	<packaging>pom</packaging>
+	<packaging>jar</packaging>
 </project>
