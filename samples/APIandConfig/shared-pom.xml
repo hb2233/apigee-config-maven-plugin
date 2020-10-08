@@ -172,7 +172,7 @@
                 <apigee.org>hbsage24-eval</apigee.org>
                 <apigee.env>test</apigee.env>
                 <apigee.username>hb.sage24@gmail.com</apigee.username>
-                <apigee.password>Summit12$$</apigee.password>
+                <apigee.password>${password}</apigee.password>
             </properties>
         </profile>
     </profiles>
