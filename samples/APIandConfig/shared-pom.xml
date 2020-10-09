@@ -169,9 +169,9 @@
                 <apigee.profile>test</apigee.profile>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>hbsage24-eval</apigee.org>
+                <apigee.org>hbsage26-eval</apigee.org>
                 <apigee.env>test</apigee.env>
-                <apigee.username>hb.sage24@gmail.com</apigee.username>
+                <apigee.username>hb.sage26@gmail.com</apigee.username>
                 <apigee.password>${password}</apigee.password>
             </properties>
         </profile>
